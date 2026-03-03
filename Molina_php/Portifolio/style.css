@@ -1,0 +1,22 @@
+body {
+    scroll-behavior: smooth;
+}
+
+header {
+    background: url('../img/hero-bg.jpg') no-repeat center center/cover;
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
