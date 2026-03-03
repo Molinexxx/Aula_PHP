@@ -66,7 +66,7 @@ if (isset($_GET['delete'])) {
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Todo List PHP</title>
+    <title>Todo List PHP molina</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
